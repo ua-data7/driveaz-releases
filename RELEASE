@@ -1,0 +1,9 @@
+v0.0.1 - Releasing whl/tar.gz for project
+v0.0.2 - Fixes and making this more jupyter friendly
+v0.0.3 - Rewritten for use as a class library
+v0.0.4 - bugfix: Transmute class import issue
+v0.0.5 - bugfix: issue converting parquet->csv and datetime conversions.
+v0.0.6 - bugfix: issue with casting steps defined in schema
+v0.0.7 - removed pathlib and switched to fsspec to try webdave
+v0.0.8 - added unittests for cli and class csv to parquet conversion
+v0.0.9 - update to github action, updates RELEASE.md and LICENSE files
