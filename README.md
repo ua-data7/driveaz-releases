@@ -1,5 +1,5 @@
 # DRIVEAZ - Transmute polars cli/class wrapper
-## version: v0.0.9
+## version: v0.0.10
 
 >Project repo: [https://github.com/ua-data7/driveaz](https://github.com/ua-data7/driveaz)
 
